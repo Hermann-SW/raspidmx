@@ -6,6 +6,7 @@ TARGETS=lib \
 	radar_sweep \
 	radar_sweep_alpha \
 	rgb_triangle \
+	i420view \
 	game \
 	spriteview \
 	test_pattern \
